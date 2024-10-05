@@ -5,8 +5,8 @@
 
 <!-- **didintri196/didintri196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 👋 Hi, I’m Didin
-- 👀 I’m interested in Back End Engineer
-- 🌱 I’m currently learning GoLang Programming
+- 👀 I’m interested in Back End Engineer (Go Specialist)
+- 🌱 I’m Currently Learning Cloud Infrastructure & Cloud Computing
 - 💞️ Make a better future
 - 📫 How to reach me didintri196@gmail.com
 
