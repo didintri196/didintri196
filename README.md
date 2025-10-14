@@ -9,5 +9,3 @@
 - 🌱 I’m Currently Learning Cloud Infrastructure & Cloud Computing
 - 💞️ Focusing on building scalable systems and optimization
 - 📫 How to reach me didintri196@gmail.com
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=didintri196&theme=blue-green)](https://git.io/streak-stats)
